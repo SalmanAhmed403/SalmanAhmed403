@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salman Ahmed4
-- 👀 I’m interested in Cyber security and blockchain development
-- 🌱 I’m currently learning cyber security (defensive as well as offensive)
-- 💞️ I’m looking to collaborate on any kind of pentesting, web application testing, monitoring ,incident responce and threat modelling
+- 👀 I’m interested in Cyber security and Devops Technologies ( linux,docker,kubernetes,CI/CD , jenkins & much more )
+- 🌱 I’m currently learning Devops technology and cloud computing
+- 💞️ I’m looking to collaborate on any kind of open source projects related to deployment / devops.
 - 📫 How to reach me ... You can reach me via mail: Tweetybuddy09"gmail.com
 
 <!---
